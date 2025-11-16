@@ -1,19 +1,19 @@
-# ☁️ IT School Weather Application
+#  IT School Weather Application
 
 This is the final project for the Frontend Development course, displaying current weather and a 5-day forecast for selected cities.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 You can access the live, deployed version of the application here:
 
 [Netlify Link]
-**(PLACE YOUR NETLIFY LINK HERE)**
+https://mihai-cristea.netlify.app/
 
 ---
 
-## ✨ Project Features (Principalele Funcționalități)
+##  Project Features (Principalele Funcționalități)
 
 The application includes the following key features:
 
@@ -31,6 +31,3 @@ The application includes the following key features:
 
 ---
 
-## 🔑 Installation and Use
-
-To run this project locally, simply open the `index.html` file in your web browser.
