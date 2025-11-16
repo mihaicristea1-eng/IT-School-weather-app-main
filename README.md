@@ -1,6 +1,6 @@
 #  IT School Weather Application
 
-This is the final project for the Frontend Development course, displaying current weather and a 5-day forecast for selected cities.
+This project was developed as part of the Frontend Development course at IT School. It serves to showcase the implementation of JavaScript, HTML, and CSS by displaying current weather and a 5-day forecast for selected cities.
 
 ---
 
